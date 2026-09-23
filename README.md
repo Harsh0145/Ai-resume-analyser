@@ -1,5 +1,7 @@
 # 🤖 AI Resume Analyser
 
+🚀 **Live Demo:** https://ai-resume-analyser-ghgpxv6fp3ydyraelrbe5e.streamlit.app/
+
 A portfolio-ready resume analysis web application built with **Python, Streamlit, PDF text extraction, NLP-style text processing, data analysis, and an optional OpenAI LLM layer**.
 
 ## ✨ What it does
